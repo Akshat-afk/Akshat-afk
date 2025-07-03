@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter,numpy,pandas,scikit-learn,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter,numpy,pandas,scikit-learn,matplotlib,javascript,html,css" />
   <img src="https://skillicons.dev/icons?i=arduino,opencv,git,github,vscode,linux,raspberrypi" />
 </p>
 
